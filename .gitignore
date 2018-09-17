@@ -1,0 +1,6 @@
+/clover.xml
+/phpunit.xml
+/var/
+/vendor/
+/.vscode/
+/.editorconfig
